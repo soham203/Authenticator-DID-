@@ -19,7 +19,7 @@ Step 3: create src/input.css to include:
 @tailwind utilities;
 ```
 
-Step 4: Include the src/output.css file to your html
+Step 4: Include the src/output.css file to html
 
 step 5: Run the following command:
 ```
